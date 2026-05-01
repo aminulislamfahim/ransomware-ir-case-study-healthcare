@@ -262,8 +262,8 @@ Software architectural weaknesses supplied by the vendor directly amplified the 
 
 <div align="center">
   
-**Author Name:** <a href="https://www.linkedin.com/in/aifaminul/" target="_blank">Md. Aminul Islam Fahim</a> (LinkedIn:https://www.linkedin.com/in/aifaminul/)
-
+**Author Name:** <a href="https://www.linkedin.com/in/aifaminul/" target="_blank">Md. Aminul Islam Fahim</a> 
+**LinkedIn:** https://www.linkedin.com/in/aifaminul/
 **Prepared by:** Cybersecurity Incident Response Professional  
 **Domain:** Healthcare Security | Blue Team | DFIR  
 **Type:** Anonymized Real-World Case Study  
